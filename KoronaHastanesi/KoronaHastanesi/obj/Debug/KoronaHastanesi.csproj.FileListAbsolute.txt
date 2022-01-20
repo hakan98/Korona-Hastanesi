@@ -1,0 +1,11 @@
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\bin\Debug\KoronaHastanesi.exe.config
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\bin\Debug\KoronaHastanesi.exe
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\bin\Debug\KoronaHastanesi.pdb
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.csprojAssemblyReference.cache
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.Properties.Resources.resources
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.csproj.GenerateResource.cache
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.csproj.CoreCompileInputs.cache
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.exe
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.pdb
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.Form1.resources
+C:\Users\VolkanPC\source\repos\KoronaHastanesi\KoronaHastanesi\obj\Debug\KoronaHastanesi.Form2.resources
